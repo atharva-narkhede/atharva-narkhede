@@ -30,13 +30,15 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-narkhede&layout=compact&theme=cobalt&hide_border=true" />
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/atharva-narkhede) 
---->
+
 <h1 align="center">Hi 👋, I'm Atharva Narkhede</h1>
 <h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-narkhede&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-narkhede" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-narkhede" alt="atharva-narkhede" /></a> </p>
+--->
+[![@atharvanarkhede's Holopin board](https://holopin.me/atharvanarkhede)](https://holopin.io/@atharvanarkhede)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +51,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-narkhede&show_icons=true&locale=en&layout=compact" alt="atharva-narkhede" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-narkhede&" alt="atharva-narkhede" /></p>
-
-
-[![@atharvanarkhede's Holopin board](https://holopin.me/atharvanarkhede)](https://holopin.io/@atharvanarkhede)
 
