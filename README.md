@@ -1,71 +1,90 @@
 
-
-<!--
-**atharva-narkhede/atharva-narkhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Beige Classy Modern Initials Name Logo](https://user-images.githubusercontent.com/106006803/195900403-a6f1318d-a567-42f9-a2f6-1fe553682dc4.png)
-
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=atharva-narkhede&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-narkhede&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-narkhede&layout=compact&theme=cobalt&hide_border=true" />
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/atharva-narkhede) 
-
-<h1 align="center">Hi 👋, I'm Atharva Narkhede</h1>
-<h3 align="center">A developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-narkhede&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-narkhede" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-narkhede" alt="atharva-narkhede" /></a> </p>
---->
 [![@atharvanarkhede's Holopin board](https://holopin.me/atharvanarkhede)](https://holopin.io/@atharvanarkhede)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/atharva-narkhede-3095b024a/" target="blank"><img align="center" src="https://github.com/atharva-narkhede/atharva-narkhede/blob/main/linkedin.svg" alt="https://www.linkedin.com/in/atharva-narkhede-3095b024a/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/atharva__narkhede" target="blank"><img align="center" src="https://github.com/atharva-narkhede/atharva-narkhede/blob/main/instagram.svg" alt="https://www.instagram.com/atharva__narkhede" height="30" width="40" /></a>
-<a href="https://twitter.com/AtharvaNarkhed9" target="blank"><img align="center" src="https://github.com/atharva-narkhede/atharva-narkhede/blob/main/twitter.svg" alt="https://twitter.com/AtharvaNarkhed9" height="30" width="40" /></a>
-<a href="https://dev.to/atharvanarkhede" target="blank"><img align="center" src="https://github.com/atharva-narkhede/atharva-narkhede/blob/main/dev.svg" alt="https://dev.to/atharvanarkhede" height="30" width="40" /></a>
+<h1 align="center">Hi there, I'm Atharva Narkhede 👋</h1>
+<p align="center">
+  <em>Passionate Developer | Tech Enthusiast | Lifelong Learner</em>
 </p>
 
+---
 
+### 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-narkhede-3095b024a/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/atharva__narkhede" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
+  </a>
+  <a href="https://twitter.com/AtharvaNarkhed9" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+  </a>
+  <a href="https://dev.to/atharvanarkhede" target="_blank">
+    <img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Dev.to" height="40" width="40"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-narkhede&show_icons=true&locale=en&layout=compact" alt="atharva-narkhede" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-narkhede&" alt="atharva-narkhede" /></p>
+### 🛠️ Languages and Tools
 
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-narkhede&show_icons=true&locale=en&layout=compact" alt="Atharva's Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-narkhede&" alt="Atharva's Streak Stats" />
+</p>
+
+---
+
+### 🌟 Contributions
 
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
+---
+
+<p align="center">
+  <strong>Visitor Count:</strong><br>
   <img src="https://profile-counter.glitch.me/atharva-narkhede/count.svg" />
 </p>
 
+---
 
+### 🚀 About Me
 
+Hello! I'm Atharva, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow. Whether it's coding, debugging, or collaborating on projects, I thrive on the challenges and opportunities that come my way.
 
+Here are a few things about me:
+- 💻 I specialize in **JavaScript**, **React**, and **MongoDB**.
+- 🌱 Currently learning about cloud technologies and improving my skills in backend development.
+- 🎨 I love working on open-source projects and contributing to the developer community.
+- 📚 In my free time, I enjoy reading tech blogs, exploring new tools, and keeping up with the latest trends in software development.
+
+Feel free to connect with me on any of the platforms above. Let's collaborate and make something amazing together!
