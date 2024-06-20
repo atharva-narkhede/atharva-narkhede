@@ -82,7 +82,7 @@
 Hello! I'm Atharva, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow. Whether it's coding, debugging, or collaborating on projects, I thrive on the challenges and opportunities that come my way.
 
 Here are a few things about me:
-- 💻 I specialize in **JavaScript**, **React**, and **MongoDB**.
+- 💻 I specialize in **JavaScript**, **React**, **MongoDB**, and **Flutter**.
 - 🌱 Currently learning about cloud technologies and improving my skills in backend development.
 - 🎨 I love working on open-source projects and contributing to the developer community.
 - 📚 In my free time, I enjoy reading tech blogs, exploring new tools, and keeping up with the latest trends in software development.
