@@ -1,7 +1,8 @@
-
-[![@atharvanarkhede's Holopin board](https://holopin.me/atharvanarkhede)](https://holopin.io/@atharvanarkhede)
-
 <h1 align="center">Hi there, I'm Atharva Narkhede 👋</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="center">
   <em>Passionate Developer | Tech Enthusiast | Lifelong Learner</em>
 </p>
@@ -21,7 +22,13 @@
     <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
   </a>
   <a href="https://dev.to/atharvanarkhede" target="_blank">
-    <img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Dev.to" height="40" width="40"/>
+    <img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to" height="40" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/atharva-narkhede/" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=120&id=wDGo581Ea5Nf&format=png" alt="LeetCode" height="40" width="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/atharvahneb/" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=154&id=AbQBhN9v62Ob&format=png" alt="GeeksforGeeks" height="40" width="40"/>
   </a>
 </p>
 
@@ -31,22 +38,22 @@
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 </p>
 
@@ -61,12 +68,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-narkhede&" alt="Atharva's Streak Stats" />
 </p>
-
----
-
-### 🌟 Contributions
-
-<a href=#><img src="contributions.svg"></a>
 
 ---
 
