@@ -34,6 +34,12 @@
 
 ---
 
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/atharva-narkhede?theme=dark&font=Cabin" width="400"/>
+</p>
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
