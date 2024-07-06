@@ -36,9 +36,7 @@
 
 ### 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/atharva-narkhede?theme=dark&font=Cabin" width="400"/>
-</p>
+![](https://leetcard.jacoblin.cool/atharva-narkhede?theme=dark&font=Syne%20Mono)
 
 ### 🛠️ Languages and Tools
 
