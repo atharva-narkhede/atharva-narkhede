@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-narkhede&" alt="Atharva's Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=atharva-narkhede&theme=yeblu&border_radius=5&hide_longest_streak=true" alt="Atharva's Streak Stats" />
 </p>
 
 ---
